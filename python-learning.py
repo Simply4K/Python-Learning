@@ -1,7 +1,6 @@
 from lib2to3.pytree import BasePattern
 from re import A
 import random
-from subprocess import _TXT
 
 print("simply4K good ahh password generator")
 
